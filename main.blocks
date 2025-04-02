@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="7msCBK/(Got-J8VR;V7`" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="6/g2(ss_9nAmcZJ5i%@1"><value name="text"><shadow type="text" id="VEK%O%WHe%/G)^vqeaQ|"><field name="TEXT">¿u are ok?</field></shadow></value></block></statement></block><block type="device_button_event" id="Q-,0]*v(03ilHVym1qg," x="0" y="172"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id=",XS$JgPdBLF0%{M`z;wI"><field name="LEDS">`
+        # . . . # 
+        # # . . # 
+        # . # . # 
+        # . . # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="])`!as0r`n5o3[X9QZnG"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_ring" id="/]HhWxlN3EcTvM`9d:,-"><value name="note"><shadow type="device_note" id="^h+@yhp#oVO!pz`zjysS"><field name="name">784</field></shadow></value><next><block type="synth_set_volume" id="]q8vNu/lqq;Uh_tp*_@l"><value name="volume"><shadow type="math_number_minmax" id="CY2_S~?t)Ph$;-?1.mB$"><mutation min="0" max="255" label="Volume" precision="0"></mutation><field name="SLIDER">255</field></shadow></value><next><block type="device_print_message" id="+4q?{,Mkrz=Dedpehb@v"><value name="text"><shadow type="text" id="QE0=?s;pra+s{=9q6oFu"><field name="TEXT">se esta contactando a tu medico</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="Fb1e^jPRW6gsACeHZG1C" x="459" y="166"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="~K5$`{1?IRhMuKeR$[D6"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="Mgj7?V7SL{?Ho=K{HZd?"><field name="LEDS">`
+        . # # # # 
+        . # . . . 
+        . # # # # 
+        . # . . . 
+        . # # # #
+        `</field><next><block type="device_show_leds" id="@TZ#c0ffKsA5P6~DK3$4"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . . # . . 
+        . . . # . 
+        . # # # .
+        `</field></block></next></block></next></block></statement></block></xml>
